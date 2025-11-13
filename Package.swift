@@ -19,10 +19,6 @@ let package = Package(
             dependencies: [],
             path: "Sources/NSJSONSerializationForSwift",
             publicHeadersPath: "."
-        ),
-        .testTarget(
-            name: "NSJSONSerializationForSwiftTests",
-            dependencies: ["NSJSONSerializationForSwift"]
-        ),
+        )
     ]
 )
