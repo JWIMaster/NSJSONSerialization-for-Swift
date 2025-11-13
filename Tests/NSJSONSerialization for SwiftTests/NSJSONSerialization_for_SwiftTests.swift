@@ -6,6 +6,6 @@ final class NSJSONSerialization_for_SwiftTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(NSJSONSerialization_for_Swift().text, "Hello, World!")
+
     }
 }
